@@ -21,6 +21,12 @@
     android:title="@string/header_category_system"
     settings:initialExpandedChildrenCount="4">
 
+    <!-- H4K3ROM Logo Header -->
+    <Preference 
+        android:key="h4k3rom_logo"
+        android:order="-500"
+        android:layout="@layout/h4k3rom_logo" />
+
     <Preference
         android:key="gesture_settings"
         android:title="@string/gesture_preference_title"
