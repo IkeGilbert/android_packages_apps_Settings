@@ -264,9 +264,9 @@
         <item quantity="other">You are now <xliff:g id="step_count">%1$d</xliff:g> steps away from enabling development settings.</item>
     </plurals>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
-    <string name="show_dev_on_cm">You have enabled H4K3R & Dev settings!</string>
+    <string name="show_dev_on_cm">You have enabled H4K3R Dev settings!</string>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-    <string name="show_dev_already_cm">Dude, you already enabled H4K3R & Dev settings</string>
+    <string name="show_dev_already_cm">you already enabled H4K3R Dev settings</string>
 
     <!-- Device Info screen. LineageOS legal. -->
     <string name="lineagelicense_title">LineageOS legal</string>
@@ -299,7 +299,7 @@
     <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back button</string>
 
     <!-- Launch Dev Tools -->
-    <string name="development_tools_title">H4K3R & Dev tools</string>
+    <string name="development_tools_title">H4K3R Dev tools</string>
 
     <!-- Lock screen cover art -->
     <string name="lockscreen_media_art_title">Display media cover art</string>
